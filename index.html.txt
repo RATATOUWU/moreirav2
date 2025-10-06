@@ -18,7 +18,7 @@
       margin-bottom: 30px;
     }
 
-    button {
+    button {window.open(vhttps://www.roblox.com/share?code=bd980e2b18143245b1be6724daafbf4c&type=Server')">
       background-color: #00b0f0;
       border: none;
       padding: 15px 30px;
@@ -42,4 +42,5 @@
     Unirme al servidor
   </button>
 </body>
+
 </html>
